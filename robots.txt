@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:  https://www.abortion-pills-for-sell-al-thumama.u-ae.top/sitemap.xml
